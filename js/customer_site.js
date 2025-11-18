@@ -94,6 +94,18 @@ const CUSTOMER_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
+    },
+    hnys: {
+        api: 'https://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '红牛影视'
+    },
+    zdzy: {
+        api: 'http://zuidazy.me/api.php/provide/vod',
+        name: '最大资源'
+    },
+    hhzy: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '火狐资源'
     }
 };
 
